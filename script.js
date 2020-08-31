@@ -17,6 +17,8 @@ const about = document.getElementById('2').addEventListener("click", () => {
     console.log("dziala");
     mainDiv.style.display = "none"
     aboutDiv.style.display = "block"
+    portfolioDiv.style.display = "none";
+    contactDiv.style.display = "none"
 
 })
 const portfolio = document.getElementById('3').addEventListener("click", () => {
