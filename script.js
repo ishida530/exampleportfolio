@@ -19,7 +19,6 @@ const about = document.getElementById('2').addEventListener("click", () => {
     aboutDiv.style.display = "block"
     portfolioDiv.style.display = "none";
     contactDiv.style.display = "none"
-
 })
 const portfolio = document.getElementById('3').addEventListener("click", () => {
 
